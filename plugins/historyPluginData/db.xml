@@ -1,0 +1,14 @@
+<tasks>
+    <task HistoryPluginDate="22.12.2012" id="4" delete="1">
+        <text>4</text>
+    </task>
+    <task HistoryPluginDate="22.12.2012" id="5" delete="1">
+        <text>5</text>
+    </task>
+    <task HistoryPluginDateEnd="31.12.2012" HistoryPluginDate="31.12.2012" id="28" delete="1">
+        <text>6</text>
+    </task>
+    <task HistoryPluginDateEnd="31.12.2012" HistoryPluginDate="31.12.2012" id="28" delete="1">
+        <text>Вынести мусор и помыть пивные кружки</text>
+    </task>
+</tasks>

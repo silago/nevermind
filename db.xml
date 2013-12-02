@@ -1,0 +1,22 @@
+<tasks>
+    <task id="95">
+        <id>95</id>
+        <text>Категории - несколько уровней</text>
+    </task>
+    <task id="96">
+        <id>96</id>
+        <text>Районы городов</text>
+    </task>
+    <task id="97">
+        <id>97</id>
+        <text>Вознаграждение</text>
+    </task>
+    <task id="98">
+        <id>98</id>
+        <text>Регистрация двух типов</text>
+    </task>
+    <task id="99">
+        <id>99</id>
+        <text>Починить футер</text>
+    </task>
+</tasks>
